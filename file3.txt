@@ -1,1 +1,2 @@
 testfile3
+hi, this is just a test file.
